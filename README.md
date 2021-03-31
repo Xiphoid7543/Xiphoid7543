@@ -5,3 +5,5 @@
 - 📫 How to reach me:
 1. Email - xiphoid.official@outlook.com
 2. Discord - Xiphoid#7543
+3. 
+[![Xiphoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiphoid7543)]
